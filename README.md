@@ -1,5 +1,5 @@
 # Flasheurus
-Game Flasheurus yang bertujuan untuk memenuhi tugas akhir Grafkom.
+Game Flasheurus yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer.
 
 ## Storyline
 Flasheurus merupakan game Episodic yang memiliki storyline dimana karakter utama harus berlari melalui rintangan secepat mungkin. Karakter utama sedang bermain keluar rumah, tetapi orangtuanya memanggil dia untuk pulang dan makan indofood sarimi isi dua buatan orangtuanya, sehingga ia harus segera pulang dan memenuhi panggilan orangtuanya.
