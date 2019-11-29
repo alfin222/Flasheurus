@@ -8,7 +8,7 @@ Flasheurus merupakan game Episodic yang memiliki storyline dimana karakter utama
 Game ini bertujuan untuk mendapatkan skor setinggi mungkin berdasarkan waktu tercepat untuk pulang kerumah. Pemain akan kalah jika karakter gagal pulang ke rumah setelah tenggat waktu. Rintangan game ini dapat berupa obstacle yang dapat menghalangi jalan atau objek yang bergerak untuk menghalangi jalan.
 
 ## Concept and Environment
-Game bertemakan jogging track. Objek dan obstacle akan menghalangi jalan karakter utama untuk menuju ke rumahnya. Pemain harus dengan bijak untuk melewati seluruh rintangan yang menghalangi untuk pulang kerumah secepat mungkin.
+Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan karakter utama untuk menuju ke rumahnya. Pemain harus dengan bijak untuk melewati seluruh rintangan yang menghalangi untuk pulang kerumah secepat mungkin.
 
 ## Action:
 - Karakter utama hanya bisa bergerak jalan ke arah kanan.
@@ -22,3 +22,38 @@ Game bertemakan jogging track. Objek dan obstacle akan menghalangi jalan karakte
 - Design UI merupakan buatan sendiri.
 - Tutorial didapatkan dari Youtube ,Unity Documentation, dan Unity Forum.
 - Pematangan ide dan konsep game dibantu oleh asisten praktikum dan dosen mata kuliah Grafika Komputer.
+
+
+## Developer
+<table>
+  <th>
+    Nama
+  </th>
+  <th>
+    Peran
+  </th>
+  <tr>
+    <td>
+      Muhammad Alfin Khalidi
+    </td>
+    <td>
+      Game Programmer, Game Designer
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Morgan Mendel
+    </td>
+    <td>
+      Game Artist
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Rafid Rudy Darmawan
+    </td>
+    <td>
+      Game Artist
+    </td>
+  </tr>
+</table>
