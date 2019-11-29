@@ -57,3 +57,30 @@ Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan kar
     </td>
   </tr>
 </table>
+
+## Tech-Stack
+<table>
+  <th>
+    Nama Software
+  </th>
+  <th>
+    Fungsi
+  </th>
+  <tr>
+    <td>
+      Unity 2018.4.11f1
+    </td>
+    <td>
+      Mengatur pembuatan game, pengolahan aset, penggunaan script, dan kolaborasi
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Visual Studio Code
+    </td>
+    <td>
+      Mengetik script menggunakan bahasa C#
+    </td>
+</table>
+
+## Screenshot In-Game
