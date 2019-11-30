@@ -1,2 +1,2 @@
-# Trahome
-Game Trahome yang bertujuan untuk memenuhi tugas akhir Grafkom.
+## Script Code
+kode skrip yang digunakan untuk pembuatan game
