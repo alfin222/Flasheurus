@@ -84,18 +84,18 @@ Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan kar
 </table>
 
 ## Screenshot In-Game
-- Main Menu
+Main Menu
 ![Screenshot](MainMenu.png)
 ![Screenshot](MainMenu2.png)
 
-- Level 1
+Level 1
 ![Screenshot](Level1.png)
 
-- Level 2
+Level 2
 ![Screenshot](Level2.png)
 
-- Finish
+Finish
 ![Screenshot](Finish.png)
 
-- Game Over
+Game Over
 ![Screenshot](GameOver.png)
