@@ -92,7 +92,7 @@ Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan kar
 ![Screenshot](Level1.png)
 
 - Level 2
-![Screenshot](Level1.png)
+![Screenshot](Level2.png)
 
 - Finish
 ![Screenshot](Finish.png)
