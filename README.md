@@ -91,5 +91,8 @@ Main Menu
 Level 1
 ![Screenshot](Level1.png)
 
+Finish
+![Screenshot](Finish.png)
+
 Game Over
 ![Screenshot](GameOver.png)
