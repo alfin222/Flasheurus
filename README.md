@@ -86,3 +86,4 @@ Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan kar
 ## Screenshot In-Game
 Main Menu
 ![Screenshot](MainMenu.png)
+![Screenshot](MainMenu2.png)
