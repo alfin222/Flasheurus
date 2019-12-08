@@ -2,13 +2,13 @@
 Game Flasheurus yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer.
 
 ## Storyline
-Flasheurus merupakan game Episodic yang memiliki storyline dimana karakter utama harus berlari melalui rintangan secepat mungkin. Karakter utama sedang bermain keluar rumah, tetapi orangtuanya memanggil dia untuk pulang dan makan indofood sarimi isi dua buatan orangtuanya, sehingga ia harus segera pulang dan memenuhi panggilan orangtuanya.
+Flasheurus merupakan game Episodic yang memiliki storyline dimana karakter utama harus berlari melalui rintangan secepat mungkin. Karakter utama sedang bermain di luar rumah, tetapi orangtuanya memanggil dia untuk pulang dan makan indofood sarimi isi dua buatan orangtuanya, sehingga ia harus segera pulang dan memenuhi panggilan orangtuanya.
 
 ## Gameplay
-Game ini bertujuan untuk mendapatkan skor setinggi mungkin berdasarkan waktu tercepat untuk pulang kerumah. Pemain akan kalah jika karakter gagal pulang ke rumah setelah tenggat waktu. Rintangan game ini dapat berupa obstacle yang dapat menghalangi jalan atau objek yang bergerak untuk menghalangi jalan.
+Game ini bertujuan untuk mendapatkan skor setinggi mungkin berdasarkan waktu tercepat untuk pulang ke rumah. Pemain akan kalah jika karakter gagal pulang ke rumah setelah tenggat waktu. Rintangan game ini dapat berupa obstacle yang dapat menghalangi jalan atau objek yang bergerak untuk menghalangi jalan.
 
 ## Concept and Environment
-Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan karakter utama untuk menuju ke rumahnya. Pemain harus dengan bijak untuk melewati seluruh rintangan yang menghalangi untuk pulang kerumah secepat mungkin.
+Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan karakter utama untuk menuju ke rumahnya. Pemain harus dengan bijak untuk melewati seluruh rintangan yang menghalangi untuk pulang ke rumah secepat mungkin.
 
 ## Action:
 - Karakter utama hanya bisa bergerak jalan ke arah kanan.
@@ -20,7 +20,7 @@ Game bertemakan kawasan kehutanan. Objek dan obstacle akan menghalangi jalan kar
 ### Note
 - Aset model game merupakan standar aset dari Unity.
 - Design UI merupakan buatan sendiri.
-- Tutorial didapatkan dari Youtube ,Unity Documentation, dan Unity Forum.
+- Tutorial didapatkan dari Youtube, Unity Documentation, dan Unity Forum.
 - Pematangan ide dan konsep game dibantu oleh asisten praktikum dan dosen mata kuliah Grafika Komputer.
 
 
